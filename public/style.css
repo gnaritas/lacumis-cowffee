@@ -54,7 +54,8 @@ a.brand span{color:var(--oro)}
 nav.links{display:flex;align-items:center;gap:clamp(.7rem,1.6vw,1.5rem)}
 nav.links a{color:var(--crema);text-decoration:none;font-size:.92rem;letter-spacing:.4px;text-transform:uppercase;padding:.35rem 0;border-bottom:2px solid transparent}
 nav.links a:hover{color:var(--oro);border-bottom-color:var(--oro)}
-nav.links a.btn-sm{border-bottom:none}
+nav.links a.btn-sm{border-bottom:none;padding:.45rem 1.05rem}
+nav.links a.btn-sm:hover{color:var(--ink);border-bottom-color:transparent}
 .navtoggle{position:absolute;top:0;left:-9999px;opacity:0}
 .navbtn{display:none}
 

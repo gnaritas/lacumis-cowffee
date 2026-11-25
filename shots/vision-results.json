@@ -1,0 +1,107 @@
+[
+ {
+  "shot": "r_404_desktop.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Button label \"BACK TO HOME\" touches left and right edges @ \"BACK TO HOME\" button\n- Button label \"SEE THE MENU\" touches left and right edges @ \"SEE THE MENU\" button"
+ },
+ {
+  "shot": "404_mobile.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Button label touches edges @ \"BACK TO HOME\" button\n- Button label touches edges @ \"SEE THE MENU\" button"
+ },
+ {
+  "shot": "r_coffees_desktop.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Button label touches edges @ \"FULL MENU\" button\n- Button label touches edges @ \"GET DIRECTIONS\" button\n- Button label touches edges @ \"COME GET ONE\" button"
+ },
+ {
+  "shot": "coffees_mobile.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Heading \"Cowffee \u2014 Mexican-style, hot or iced\" is cut off @ main content area\n- Button label \"FULL MENU\" touches its edges @ main content area\n- Button label \"GET DIRECTIONS\" touches its edges @ main content area"
+ },
+ {
+  "shot": "r_contact_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "contact_mobile.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Heading \"Contact La Cumis\" is clipped @ main content area\n- Email address \"haileyhernandez516@gmail.com\" is broken across two lines @ Direct lines section\n- Footer text \"haileyhernandez516@gmail.com\" is clipped @ footer"
+ },
+ {
+  "shot": "r_index_desktop.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- \"COFFEES\" in navigation bar is clipped @ header\n- \"CONTACT US\" button label touches right edge @ header\n- \"THE PANADER\u00cdA\" link is clipped @ Pan & Pastries section"
+ },
+ {
+  "shot": "index_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "r_menu_desktop.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Button label touches edges @ \"PLAN YOUR VISIT\" button\n- Button label touches edges @ \"GET DIRECTIONS\" button"
+ },
+ {
+  "shot": "menu_mobile.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Button label \"PLAN YOUR VISIT\" touches its top and bottom edges @ \"PLAN YOUR VISIT\" button\n- Button label \"GET DIRECTIONS\" touches its top and bottom edges @ \"GET DIRECTIONS\" button"
+ },
+ {
+  "shot": "r_our-story_desktop.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Button label touches edges @ \"CONTACT US\" button in header\n- Button label touches edges @ \"VISIT THE FIRST ONE\" button in \"Who's behind the counter\" section"
+ },
+ {
+  "shot": "our-story_mobile.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Button label touches edges @ \"SEE WHERE WE ARE NOW\" button\n- Button label touches edges @ \"TRY THE MENU\" button\n- Button label touches edges @ \"VISIT THE FIRST ONE\" button"
+ },
+ {
+  "shot": "r_pan_desktop.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Button label touches edges @ \"GET DIRECTIONS\" button"
+ },
+ {
+  "shot": "pan_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "r_privacy_desktop.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Button label touches edges @ \"CONTACT US\" button in navigation bar"
+ },
+ {
+  "shot": "privacy_mobile.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Text clipped/overflowing: \"haileyhernandez516@gmail.com\" in footer is cut off. @ Footer"
+ },
+ {
+  "shot": "r_thanks_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "thanks_mobile.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Text clipped: \"Your message is on its way to Hailey.\" heading is cut off at the right edge."
+ },
+ {
+  "shot": "r_visit_desktop.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Button label \"GET DIRECTIONS\" touches left and right edges @ top section\n- Map area failed to paint (solid gray) @ visit page map frame"
+ },
+ {
+  "shot": "visit_mobile.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Button label touches edges @ \"GET DIRECTIONS\" button\n- Button label touches edges @ \"CALL (316) 737-7120\" button\n- Button label touches edges @ \"WHAT WE SERVE\" button"
+ },
+ {
+  "shot": "og.png",
+  "verdict": "DEFECTS",
+  "text": "VERDICT: DEFECTS\n- Text clipped or overflowing its box or viewport @ \"MEXICAN-STYLE COFFEES\" in the top navigation/tagline. \"COFFEES\" is cut off."
+ }
+]
