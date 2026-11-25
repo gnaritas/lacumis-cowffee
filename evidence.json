@@ -1,0 +1,37 @@
+{
+  "shop": "La Cumis Cowffee",
+  "slug": "lacumis-cowffee",
+  "asof": "2026-11-24",
+  "claims": [
+    {"claim": "Business name La Cumis Cowffee; owner Hailey Hernandez, 21, first brick-and-mortar", "source": "https://www.kansas.com/entertainment/restaurants/dining-with-denise-neil/article318051993.html (Wichita Eagle, Denise Neil, 2026-11-13)"},
+    {"claim": "Address 2040 W. 21st St., Wichita — strip center near 21st & Amidon, former Blend Nutrition space; ZIP 67203 and geo from OpenStreetMap/Nominatim geocode of that address", "source": "press address + Nominatim reverse geocode 2026-11-24"},
+    {"claim": "Hours announced 7 a.m.–9 p.m., closed Wednesdays; opening-window hours can shift", "source": "press (announced hours); IG @la_cumis 2026-11-16 post: temporary hours in effect, baked goods Thu–Sun"},
+    {"claim": "Menu: mazapan latte, banana latte, Mexican mocha, coconut matcha, cookie butter matcha (hot & iced); atole announced for cold weather; homemade Mexican pastries and breads incl. gorditas, conchas, croissants, empanadas; breakfast burritos + tamales announced", "source": "press article 2026-11-13; drink list also cross-published at kansas.com Instagram caption"},
+    {"claim": "Trailer since 2024, cow-print, Fri–Sun at 21st & Fairview (parked 416 W 21st St), pausing while storefront gets going", "source": "press article 2026-11-13 (quote '...then we'll be back over there')"},
+    {"claim": "Origin: middle-schooler sweet-potato empanadas with mom Hortencia (Green Acres chef, Bradley Fair, 13 yrs to 2017), sold from home on Facebook", "source": "press article 2026-11-13"},
+    {"claim": "'La Cumis' = Spanish slang for a cool girlfriend; 'cowffee' cow theme inspired by a California cow-print coffee trailer (Cowfeine Brewery, Buena Park) Hailey followed", "source": "press article 2026-11-13"},
+    {"claim": "Phone (316) 737-7120", "source": "Instagram @la_cumis bio wa.me link, fetched 2026-11-24 via Instagram web (not in press; independently verified per card rule)"},
+    {"claim": "Email haileyhernandez516@gmail.com (site footer + privacy + contact)", "source": "self-published on https://www.hotplate.com/lacumis (IG bio links that page; press names owner Hailey Hernandez)"},
+    {"claim": "Facebook page link facebook.com/tencia.hernandez.2025", "source": "hyperlink on 'La Cumis Facebook page' in the Eagle article"},
+    {"claim": "Seasonal bakes: pan de muerto around Dia de Muertos, pumpkin conchas in fall (Instagram-only claim, labeled as watch-Instagram copy)", "source": "IG @la_cumis posts Sept–Oct 2026"},
+    {"claim": "Dine-in seating at the storefront", "source": "press article 2026-11-13"},
+    {"claim": "Prices omitted from the site entirely", "source": "press carries none; card rule: unknown = omit"}
+  ],
+  "open_status_evidence": {
+    "press": "2026-11-13: 'definitely next week' (week of Nov 16-22)",
+    "instagram_2026_11_16": "'Temporary hours in effect until further notice. Baked goods available THURSDAY - SUNDAY!!' (new posts stopped after)",
+    "gbp_2026_11_24": "Maps place-card probe: only an UNCLAIMED legacy 'La Cumis' Bakery card at 3845 N Arkansas Ave (no hours/phone/website fields; Claim-this-business affordance); no listing at 2040 W 21st St yet — brick-and-mortar GBP not indexed (kaia-class new-shop pattern)",
+    "press_followup": "No Eagle follow-up naming an exact open date found in search 2026-11-24",
+    "copy_decision": "Site says 'opening now on 21st Street' + hours labeled 'as announced' + 'opening-week hours can shift' line; no hard open-date claim"
+  },
+  "no_site_evidence": {
+    "variant_matrix_rdap_2026_11_24": "lacumiscowffee/.com/.net/.org/.us, lacumis-cowffee, lacumis.com, lacumiscowfeewichita = RDAP 404 unregistered (Verisign/PICRDAP); cowffee.com = Atom marketplace lander (squatter, not shop property)",
+    "handle_derived_stems": "IG handle la_cumis → lacumis/la_cumis stems in matrix; hotplate.com/lacumis = third-party platform page (waitlist), not own site",
+    "brand_serp": "kansas.com + Yahoo + X @kansasdotcom + FB group posts only — zero own-brand content domains",
+    "gbp": "no website field on any related place card (see open_status_evidence)",
+    "milk_and_maple_discretion": "GBP-empty is not sole evidence: SERP + variant matrix + handle stems + IG bio link all checked; IG bio links ONLY the hotplate page"
+  },
+  "owner_email_provenance": "haileyhernandez516@gmail.com self-published on hotplate.com/lacumis page body (fetched 2026-11-24, email still on page); tie: IG @la_cumis bio links exactly that URL; press names owner Hailey Hernandez. Registry email+name check clean 2026-11-24 (0 lacumis rows).",
+  "dispatch_recheck_2026_11_24": "re-curl variant matrix (RDAP 404s re-confirmed for lacumiscowffee.com/.net/.org; cowffee.com still Atom lander), re-read hotplate page (email still listed), re-ran brand SERP (no new domains), re-probed Maps place cards (no GBP at new address; legacy card still unclaimed/no website)",
+  "homonym_note": "GBP 'La Cumis' Bakery card (3845 N Arkansas Ave, unclaimed) + FB Cowffee pages (Guanajuato MX / Siem Reap KH) are different entities; identity fixed on Wichita KS + 2040 W 21st St + Hailey Hernandez"
+}

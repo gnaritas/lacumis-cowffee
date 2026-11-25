@@ -1,0 +1,13 @@
+{
+  "name": "lacumis-cowffee-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "La Cumis Cowffee — Mexican-style coffees & homemade Mexican pan, 2040 W 21st St. N, Wichita KS. Static multi-page site, Node stdlib host + Brevo HTTP form relay.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
